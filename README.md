@@ -20,7 +20,7 @@ MIT License
 
 ## Link
 
-https://mariuszwiacek.github.io/portfolio/
+https://mariuszwiacek.github.io/Password-Generator
 
 
 ## Contact info: 
