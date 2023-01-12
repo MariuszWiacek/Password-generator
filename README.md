@@ -12,7 +12,7 @@ No installation required, just click on the link.
 
 ## Screenshot
 
-![screenshot](.../java.png)
+![screenshot](https://github.com/MariuszWiacek/Password-generator/blob/main/java.png)
 
 ## License
 
