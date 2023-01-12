@@ -12,7 +12,7 @@ No installation required, just click on the link.
 
 ## Screenshot
 
-![screenshot](images/screenshot.jpeg)
+![screenshot](.../java.png)
 
 ## License
 
